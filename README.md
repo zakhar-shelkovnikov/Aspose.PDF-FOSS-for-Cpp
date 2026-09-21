@@ -903,3 +903,5 @@ are licensed under the SIL Open Font License 1.1, which permits bundling with so
 license — see [`src/internal/standard14_outlines.fonts/OFL.txt`](src/internal/standard14_outlines.fonts/OFL.txt).
 The MIT license above covers the library's own code (SPDX: `MIT AND OFL-1.1` for the distribution
 as a whole).
+
+CLA test
